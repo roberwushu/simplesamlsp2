@@ -18,18 +18,6 @@
             "name": "Jaime Perez",
             "email": "jaime.perez@uninett.no"
         }
-    ],
-    "autoload": {
-        "psr-4": {
-            "SimpleSAML\\": "lib/SimpleSAML"
-        },
-        "files": ["lib/_autoload_modules.php"]
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "SimpleSAML\\Test\\": ["tests", "tests/lib/SimpleSAML"]
-        },
-        "files": ["tests/_autoload_modules.php"]
-    }
+    ]
 
 }
