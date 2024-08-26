@@ -3,9 +3,8 @@
     "description": "A PHP implementation of a SAML 2.0 service provider and identity provider, also compatible with Shibboleth 1.3 and 2.0.",
     "type": "project",
     "keywords": [ "saml2", "shibboleth","oauth","ws-federation","sp","idp" ],
-    "homepage": "http://simplesamlphp.org",
+    "homepage": "",
     "license": "LGPL-2.1-or-later",
-    "version": "v1.0.1",
     "authors": [
         {
             "name": "Andreas Åkre Solberg",
